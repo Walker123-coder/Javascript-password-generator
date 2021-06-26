@@ -16,3 +16,4 @@ The task was to create a javascript password generator using html/css/javascript
 * password will then be automatically generated based on your answers.
 ## mock up 
 the following image shows the deployed web application
+![Untitled](https://user-images.githubusercontent.com/82131650/123513766-44c26980-d6d2-11eb-9193-c9f218f12885.png)
