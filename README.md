@@ -1,5 +1,5 @@
 ## General information
-The finished project is a basic javascript generator
+The finished project is a basic javascript generator.
 
 ## Table of contents
 1. General information.
@@ -7,7 +7,7 @@ The finished project is a basic javascript generator
 3. webpage behaviour.
 4. mock up.
 ## Task description
-The task was to create a javascript password generator using html/css/javascript
+The task was to create a javascript password generator using html/css/javascript.
 
 
 ## webpage behaviour
